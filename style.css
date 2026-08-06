@@ -46,3 +46,15 @@ button{
 button:hover{
     background:#0056b3;
 }
+
+hr{
+    margin:20px 0;
+}
+
+h3{
+    color:#007BFF;
+}
+
+p{
+    margin:8px 0;
+}
